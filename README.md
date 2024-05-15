@@ -23,7 +23,7 @@ Bu proje, öğrenci yoklama sistemlerini dijitalleştirmek için tasarlanmışt�
 2. "Güncelle ve Bildirim Gönder" butonuna tıklayarak güncellemeleri kaydedin ve gelmeyen öğrencilere SMS bildirimi gönderin.
 
 
-## Twilio API Kullanımı
+## Twilio API Hakkında
 
 Bu proje, Twilio API'sini kullanarak SMS gönderme işlevselliğine sahiptir. Ancak, Twilio'nun ücretsiz sürümü sınırlıdır. Tam özelliklere sahip olmak için Twilio'nun ücretli planlarına abone olmanız gerekebilir.
 
